@@ -1,0 +1,23 @@
+
+V
+java:S1854"@Remove this useless assignment to local variable "calculadora1".(¿ÏÙý
+T
+java:S1854">Remove this useless assignment to local variable "orcamento2".(¿¶º 
+T
+java:S1854">Remove this useless assignment to local variable "orcamento1".(Ð÷Ä‚
+Z
+java:S1854"?Remove this useless assignment to local variable "calculadora".(æ¬áÆÿÿÿÿÿ
+X
+java:S1854"=Remove this useless assignment to local variable "orcamento".(ððïÝùÿÿÿÿ
+I
+java:S1481".Remove this unused "orcamento" local variable.(ððïÝùÿÿÿÿ
+K
+java:S1481"0Remove this unused "calculadora" local variable.(æ¬áÆÿÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(‰¾¬Û
+E
+java:S1481"/Remove this unused "orcamento1" local variable.(Ð÷Ä‚
+E
+java:S1481"/Remove this unused "orcamento2" local variable.(¿¶º 
+G
+java:S1481"1Remove this unused "calculadora1" local variable.(¿ÏÙý
+V	java:S125"<This block of commented-out lines of code should be removed.(ÂûÐ«þÿÿÿÿ
